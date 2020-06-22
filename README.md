@@ -27,7 +27,7 @@ La charte graphique doit être proposée par le prestataire, en respectant les c
 
 - La charte graphique doit être moderne et épurée. Utiliser les inspirations ci-dessous
 - La couleur dominante du site sera le blanc : #ffffff
-- La couleur secondaire, utilisée pour les titres, les boutons, et autres éléments de navigation sera le rouge bordeaux : #9e121b
+  - La couleur secondaire, utilisée pour les titres, les boutons, et autres éléments de navigation sera le rouge bordeaux : #9e121b
 - La troisième couleur, utilisée entre autre pour les à plats, sera le gris clair : #f3f3f3
 
   2.2 Inspirations
